@@ -7,7 +7,7 @@
  */
 
 
-const urls = [
+/*const urls = [
 	'https://www.surveycake.com/s/mlez6',
 	'https://www.surveycake.com/s/44l9Z',
 	'https://www.surveycake.com/s/DKOkO',
@@ -17,4 +17,4 @@ const urls = [
 	'https://www.surveycake.com/s/rvrdB',
 	'https://www.surveycake.com/s/xxYdz'
 	
-];
+];*/
