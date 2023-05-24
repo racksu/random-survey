@@ -1,18 +1,19 @@
 //window.location.href = urls.length > 0 ? urls[Math.floor(Math.random() * urls.length)] : 'https://github.com/hms5232/random-survey';
 // 假設您有八個網址，放在一個陣列中
 var urls = [
-  'https://example1.com',
-  'https://example2.com',
-  'https://example3.com',
-  'https://example4.com',
-  'https://example5.com',
-  'https://example6.com',
-  'https://example7.com',
-  'https://example8.com'
+  'https://www.surveycake.com/s/mlez6',
+	'https://www.surveycake.com/s/44l9Z',
+	'https://www.surveycake.com/s/DKOkO',
+	'https://www.surveycake.com/s/V2OoN',
+	'https://www.surveycake.com/s/vK8P6',
+	'https://www.surveycake.com/s/NLrBx',
+	'https://www.surveycake.com/s/rvrdB',
+	'https://www.surveycake.com/s/xxYdz'
+	
 ];
 
 // 每個網址應出現的次數
-var targetFrequency = 10;
+var targetFrequency = 1;
 
 // 複製網址陣列以便之後的操作
 var urlPool = urls.slice();
