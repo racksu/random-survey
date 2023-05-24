@@ -8,6 +8,13 @@
 
 
 const urls = [
-	'https://www.instagram.com/racksu10/',
-	'https://www.linkedin.com/in/rack-su/'
+	'https://www.surveycake.com/s/mlez6/',
+	'https://www.surveycake.com/s/44l9Z',
+	'https://www.surveycake.com/s/DKOkO',
+	'https://www.surveycake.com/s/V2OoN',
+	'https://www.surveycake.com/s/vK8P6',
+	'https://www.surveycake.com/s/NLrBx',
+	'https://www.surveycake.com/s/rvrdB',
+	'https://www.surveycake.com/s/xxYdz'
+	
 ];
